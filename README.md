@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Jayadev 👋
 
-<!--
-**Cronobi/Cronobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a C/C++ developer passionate about building fast and powerful software for Linux.
 
-Here are some ideas to get you started:
+Currently working on a revolutionary C++ project focused on creating modern native applications with high performance and clean design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+
+🚀 A next-generation software platform built with modern C++.
+
+The goal is to create software that is:
+- fast
+- lightweight
+- modern
+- user-friendly
+
+## Tools & Technologies
+
+- C / C++
+- Linux
+- GTK4
+- OpenGL
+- Neovim
+- Meson
+
+## Current Interests
+
+- Systems programming
+- Native app development
+- Linux technologies
+- UI/UX for desktop software
+- High-performance applications
+
+## Fun Fact
+
+I enjoy building software close to the hardware and learning how operating systems work internally.
+
+## Connect With Me
+
+- GitHub
+- Email
